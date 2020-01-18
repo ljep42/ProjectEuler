@@ -25,7 +25,7 @@ class Testarray {
         
                 
         int smarray[] = new int[1000];
-        int count=0;
+        //int count=0;
         int sum=0;
         
         for (int i=0; i<smarray.length;i++) {
